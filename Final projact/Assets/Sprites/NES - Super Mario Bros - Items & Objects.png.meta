@@ -1,0 +1,234 @@
+fileFormatVersion: 2
+guid: 665febf5c99f82f4db83dccbc420d8c4
+timeCreated: 1526391198
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: PowerUp_Star
+    21300002: NES - Super Mario Bros - Items & Objects_1
+    21300004: NES - Super Mario Bros - Items & Objects_2
+    21300006: NES - Super Mario Bros - Items & Objects_3
+    21300008: NES - Super Mario Bros - Items & Objects_4
+    21300010: NES - Super Mario Bros - Items & Objects_5
+    21300012: NES - Super Mario Bros - Items & Objects_6
+    21300014: NES - Super Mario Bros - Items & Objects_7
+    21300016: NES - Super Mario Bros - Items & Objects_8
+    21300018: NES - Super Mario Bros - Items & Objects_9
+    21300020: NES - Super Mario Bros - Items & Objects_10
+    21300022: NES - Super Mario Bros - Items & Objects_11
+    21300024: NES - Super Mario Bros - Items & Objects_12
+    21300026: NES - Super Mario Bros - Items & Objects_13
+    21300028: NES - Super Mario Bros - Items & Objects_14
+    21300030: NES - Super Mario Bros - Items & Objects_15
+    21300032: NES - Super Mario Bros - Items & Objects_16
+    21300034: NES - Super Mario Bros - Items & Objects_17
+    21300036: NES - Super Mario Bros - Items & Objects_18
+    21300038: NES - Super Mario Bros - Items & Objects_19
+    21300040: NES - Super Mario Bros - Items & Objects_20
+    21300042: NES - Super Mario Bros - Items & Objects_21
+    21300044: NES - Super Mario Bros - Items & Objects_22
+    21300046: NES - Super Mario Bros - Items & Objects_23
+    21300048: NES - Super Mario Bros - Items & Objects_24
+    21300050: NES - Super Mario Bros - Items & Objects_25
+    21300052: NES - Super Mario Bros - Items & Objects_26
+    21300054: NES - Super Mario Bros - Items & Objects_27
+    21300056: NES - Super Mario Bros - Items & Objects_28
+    21300058: NES - Super Mario Bros - Items & Objects_29
+    21300060: NES - Super Mario Bros - Items & Objects_30
+    21300062: NES - Super Mario Bros - Items & Objects_31
+    21300064: NES - Super Mario Bros - Items & Objects_32
+    21300066: NES - Super Mario Bros - Items & Objects_33
+    21300068: NES - Super Mario Bros - Items & Objects_34
+    21300070: NES - Super Mario Bros - Items & Objects_35
+    21300072: NES - Super Mario Bros - Items & Objects_36
+    21300074: NES - Super Mario Bros - Items & Objects_37
+    21300076: NES - Super Mario Bros - Items & Objects_38
+    21300078: NES - Super Mario Bros - Items & Objects_39
+    21300080: NES - Super Mario Bros - Items & Objects_40
+    21300082: NES - Super Mario Bros - Items & Objects_41
+    21300084: NES - Super Mario Bros - Items & Objects_42
+    21300086: NES - Super Mario Bros - Items & Objects_43
+    21300088: NES - Super Mario Bros - Items & Objects_44
+    21300090: NES - Super Mario Bros - Items & Objects_45
+    21300092: NES - Super Mario Bros - Items & Objects_46
+    21300094: NES - Super Mario Bros - Items & Objects_47
+    21300096: NES - Super Mario Bros - Items & Objects_48
+    21300098: NES - Super Mario Bros - Items & Objects_49
+    21300100: NES - Super Mario Bros - Items & Objects_50
+    21300102: NES - Super Mario Bros - Items & Objects_51
+    21300104: NES - Super Mario Bros - Items & Objects_52
+    21300106: NES - Super Mario Bros - Items & Objects_53
+    21300108: NES - Super Mario Bros - Items & Objects_54
+    21300110: NES - Super Mario Bros - Items & Objects_55
+    21300112: NES - Super Mario Bros - Items & Objects_56
+    21300114: NES - Super Mario Bros - Items & Objects_57
+    21300116: NES - Super Mario Bros - Items & Objects_58
+    21300118: NES - Super Mario Bros - Items & Objects_59
+    21300120: NES - Super Mario Bros - Items & Objects_60
+    21300122: NES - Super Mario Bros - Items & Objects_61
+    21300124: NES - Super Mario Bros - Items & Objects_62
+    21300126: NES - Super Mario Bros - Items & Objects_63
+    21300128: NES - Super Mario Bros - Items & Objects_64
+    21300130: NES - Super Mario Bros - Items & Objects_65
+    21300132: NES - Super Mario Bros - Items & Objects_66
+    21300134: NES - Super Mario Bros - Items & Objects_67
+    21300136: NES - Super Mario Bros - Items & Objects_68
+    21300138: NES - Super Mario Bros - Items & Objects_69
+    21300140: NES - Super Mario Bros - Items & Objects_70
+    21300142: NES - Super Mario Bros - Items & Objects_71
+    21300144: NES - Super Mario Bros - Items & Objects_72
+    21300146: NES - Super Mario Bros - Items & Objects_73
+    21300148: NES - Super Mario Bros - Items & Objects_82
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 7
+  spritePivot: {x: 0.5, y: 0}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 25
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: iPhone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Android
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: WebGL
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - Items & Objects_73
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 86
+        width: 4
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - Items & Objects_82
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 35
+        width: 4
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PowerUp_Star
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 272
+        width: 16
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
